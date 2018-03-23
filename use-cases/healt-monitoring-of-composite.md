@@ -1,6 +1,6 @@
 # Health Monitoring of Composite Structures
 
-![rear-axle-composite](/images/rear-axle-composite.png)
+![rear-axle-composite](images/rear-axle-composite.png)
 
 **Particular Highlight of Application**
 
